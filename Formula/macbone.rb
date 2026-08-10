@@ -5,7 +5,6 @@ class Macbone < Formula
   license "MIT"
   head "https://github.com/bratinux/macbone.git", branch: "main"
 
-  depends_on xcode: ["16.0", :build]
   depends_on macos: :sequoia
 
   def install
