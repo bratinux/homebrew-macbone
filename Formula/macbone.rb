@@ -1,7 +1,7 @@
 class Macbone < Formula
   desc "The backbone of your Mac – a lightweight macOS CLI"
   homepage "https://github.com/bratinux/macbone"
-  url "https://github.com/bratinux/macbone.git", tag: "v0.2.0"
+  url "https://github.com/bratinux/macbone.git", tag: "v0.3.0"
   license "MIT"
   head "https://github.com/bratinux/macbone.git", branch: "main"
 
